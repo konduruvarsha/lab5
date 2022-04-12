@@ -10,13 +10,6 @@ trigger:
 
 pool:
 
-trigger:
-
-- master
-
-
-pool:
-
 
   vmImage: 'ubuntu-latest'
 
